@@ -1,2 +1,2 @@
 # node-gn
-Node.js native addon build tool
+Node.js native addon build tool(developing)

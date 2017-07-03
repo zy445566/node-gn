@@ -1,0 +1,28 @@
+{
+  "name": "node-gn",
+  "version": "1.0.0",
+  "description": "Node.js native addon build tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zy445566/node-gn.git"
+  },
+  "keywords": [
+    "native",
+    "addon",
+    "module",
+    "c",
+    "c++",
+    "bindings",
+    "gn"
+  ],
+  "author": "zy445566",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zy445566/node-gn/issues"
+  },
+  "homepage": "https://github.com/zy445566/node-gn#readme"
+}
